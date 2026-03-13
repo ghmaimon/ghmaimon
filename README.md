@@ -1,7 +1,7 @@
 <h1>Hey, I'm @ghmaimon 👋</h1>
 
 <p>
-  <b>Software Engineer · Open Source Builder</b>
+  <b>Java Software Engineer · JDK Team · Open Source Builder</b>
 </p>
 
 ---
@@ -9,7 +9,9 @@
 ### 👨‍💻 About Me
 
 - 🔮 Currently building **CrystalFlow** — a modern, declarative & extensible framework for building visual workflow editors *(coming soon to open source!)*
-- 💬 Ask me about anything related to **web development, TypeScript, or workflow tooling**
+- 💼 **Java Software Engineer** on the **JDK team** (Java Platform Group) · **VM team (HotSpot)** at Oracle
+- ☕ Java is my strongest language — I also work daily with TypeScript, JavaScript, Python, React, Node.js, Spring Boot, and Docker
+- 💬 Ask me about **Java internals, JVM/HotSpot, Spring Boot, web development, or TypeScript**
 - 🤝 Open to collaborating on open source projects
 
 ---
@@ -42,5 +44,5 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nodejs,docker,git">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,python,react,nodejs,docker,git">
 </p>
