@@ -1,4 +1,4 @@
-<h1>Hey, I'm @ghmaimon 👋</h1>
+<h1>Hey, I'm Mimoun Ghordou 👋</h1>
 
 <p>
   <b>Java Software Engineer · JDK Team · Open Source Builder</b>
