@@ -1,6 +1,6 @@
-<h1>Hey, I'm Mimoun Ghordou 👋</h1>
+<h1 align="center">Hey, I'm Mimoun Ghordou 👋</h1>
 
-<p>
+<p align="center">
   <b>Java Software Engineer · JDK Team · Open Source Builder</b>
 </p>
 
@@ -28,13 +28,13 @@
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghmaimon&hide_border=true&theme=dark">
 </p>
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghmaimon&theme=github_dark">
 </p>
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghmaimon&theme=github_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghmaimon&theme=github_dark">
 </p>
