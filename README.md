@@ -4,6 +4,19 @@
   <b>Java Software Engineer · JDK Team · Open Source Builder</b>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mghordou/">
+    <img src="https://img.shields.io/badge/LinkedIn-hamza--benyazid-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mimoun.ghordou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hamzabyazid%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mimounghordou.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-hamzabenyazid.dev-4CAF50?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+
 ---
 
 ### 👨‍💻 About Me
