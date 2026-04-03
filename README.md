@@ -21,9 +21,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔮 Currently building **CrystalFlow** — a modern, declarative & extensible framework for building visual workflow editors *(coming soon to open source!)*
+- 🔮 Currently building **CrystalFlow**: a modern, declarative & extensible framework for building visual workflow editors *(coming soon to open source!)*
 - 💼 **Java Software Engineer** on the **JDK team** (Java Platform Group) · **VM team (HotSpot)** at Oracle
-- ☕ Java is my strongest language — I also work daily with TypeScript, JavaScript, Python, React, Node.js, Spring Boot, and Docker
+- ☕ Java is my strongest language, I also work daily with TypeScript, JavaScript, Python, React, Node.js, Spring Boot, and Docker
 - 💬 Ask me about **Java internals, JVM/HotSpot, Spring Boot, web development, or TypeScript**
 - 🤝 Open to collaborating on open source projects
 
