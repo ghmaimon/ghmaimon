@@ -32,17 +32,17 @@
 
 ### 💼 Experience
 
-- 🏢 **Software Engineer (Member of Technical Staff)** · JDK VM Team, Oracle — *2025 – now*
-- 🛒 **Co-founder** · TajirPro — *2026 – now*
-- 🧑‍💻 **Freelance full-stack engineer** · Fladeed — *2024 – 2026*
-- 🏢 **Software Engineer (Junior Member of Technical Staff)** · JDK VM Team, Oracle — *2023 – 2025*
-- 🎓 **Software Engineer Intern** · Oracle Labs (GCAS) — *2023*
+- 🏢 **Software Engineer (Member of Technical Staff)** · JDK VM Team, Oracle · *2025 – now*
+- 🛒 **Co-founder** · TajirPro · *2026 – now*
+- 🧑‍💻 **Freelance full-stack engineer** · Fladeed · *2024 – 2026*
+- 🏢 **Software Engineer (Junior Member of Technical Staff)** · JDK VM Team, Oracle · *2023 – 2025*
+- 🎓 **Software Engineer Intern** · Oracle Labs (GCAS) · *2023*
 
 ---
 
 ### 🔨 Featured Projects
 
-#### 🔮 CrystalFlow *(coming soon — open source)*
+#### 🔮 CrystalFlow *(open source, coming soon)*
 
 > A modern, **declarative & extensible** framework for building visual workflow editors. Define your nodes with `@defineNode`, `@Input`, `@Output`; CrystalFlow generates the React Flow editor and runs them on an async execution engine. I own the engine: execution plans, cancellation, control-flow nodes.
 
@@ -54,7 +54,7 @@
 
 `TypeScript` · `React` · `npm i flotable` · [GitHub](https://github.com/Fladeed/FTable) · [Demo](https://flotable.fladeed.com)
 
-#### 🛒 TajirPro *(shipped — SaaS)*
+#### 🛒 TajirPro *(shipped SaaS)*
 
 > Multi-tenant ERP-lite with POS for retailers. Darija, Arabic, French and English with full RTL, **2,000+ backend tests**, tenant isolation enforced down to PostgreSQL triggers. Top committer with 740+ commits.
 
