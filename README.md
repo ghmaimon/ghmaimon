@@ -1,61 +1,67 @@
-<h1 align="center">Hey, I'm Mimoun Ghordou 👋</h1>
+```java
+/**
+ * @author  Mimoun Ghordou
+ * @role    Software Engineer, JDK VM Team @ Oracle · Co-founder of TajirPro
+ * @site    mimounghordou.com
+ */
+```
+
+Software Engineer at Oracle's Java Platform Group, on the JDK VM Team, working on JDK LTS releases. Alongside that I build and ship full-stack products: co-founder of **[TajirPro](https://tajirpro.ma)**, a SaaS for Moroccan retailers (point of sale, inventory, customer credit) built on Spring Boot, PostgreSQL and Next.js, and co-creator of **[CrystalFlow](https://crystalflow.dev)** and **[FloTable](https://github.com/Fladeed/FTable)**.
+
+At Oracle I built the team's backport automation platform and its AI agent tooling, taking backport automation from 68% to **100%**, and took my Java down to the JDK level: HotSpot behaviour, bytecode and class verification, jtreg, and how LTS releases diverge, by reading, testing and fixing the JDK itself.
+
+<br>
+
+### experience
+
+```
+2025 – now    Software Engineer (Member of Technical Staff), JDK VM Team, Oracle
+2024 – 2026   Freelance full-stack engineer: TajirPro, HandOff, FLO, Atlas
+2023 – 2025   Software Engineer (Junior Member of Technical Staff), JDK VM Team, Oracle
+2023          Software Engineer Intern, Oracle Labs (GCAS)
+```
+
+<table>
+<tr><td valign="top" width="50%">
+
+### what I've shipped
+
+**[TajirPro](https://tajirpro.ma)**: multi-tenant ERP-lite with POS for retailers. Darija, Arabic, French and English with full RTL. 2,000+ backend tests, tenant isolation enforced down to PostgreSQL triggers. Top committer, 740+ commits.
+
+**HandOff**: lead-to-call scheduling for a sales team. Next.js static site on Cloudflare, every rule in Postgres (RLS, pgTAP), zero hosting cost, shipped in nine days.
+
+**FLO**: multi-tenant e-commerce operations SaaS. Workspaces, attribute-based access control, order workflow engine.
+
+**Atlas**: T-beam module of a structural-calculation platform for an Italian client. Excel spec to tested Java (8 services, Brent root-finder, 44 tests) in six days.
+
+**[CrystalFlow](https://crystalflow.dev)**: declarative framework for visual workflow editors. Define nodes with `@defineNode`, `@Input`, `@Output`; get a React Flow editor and an async execution engine. I own the engine: execution plans, cancellation, control-flow nodes.
+
+**[FloTable](https://github.com/Fladeed/FTable)**: zero-dependency React table for ERP screens. Typed columns, filter pills, request mode with server pagination. `npm i flotable`
+
+</td><td valign="top" width="50%">
+
+### what I work with
+
+```
+languages   java · typescript · sql · c/c++ · python
+backend     spring boot · spring security · jpa · liquibase
+frontend    react · next.js · tailwind · tanstack query
+data        postgresql · supabase · mongodb · oracle db
+testing     junit · testcontainers · pgtap · jest · vitest
+infra       cloudflare workers · github actions · docker · k8s · oci
+jvm         hotspot · jtreg · lts backporting · patch analysis
+ai          agents · mcp servers · agent skills · claude code
+```
+
+</td></tr>
+</table>
+
+<br>
 
 <p align="center">
-  <b>Java Software Engineer · JDK Team · Open Source Builder</b>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghmaimon&theme=github_dark" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mghordou/">
-    <img src="https://img.shields.io/badge/LinkedIn-mimoun--ghordou-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mimoun.ghordou@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mimoun.ghordou%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mimounghordou.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-mimounghordou.dev-4CAF50?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-
----
-
-### 👨‍💻 About Me
-
-- 🔮 Currently building **CrystalFlow**: a modern, declarative & extensible framework for building visual workflow editors *(coming soon to open source!)*
-- 💼 **Java Software Engineer** on the **JDK team** (Java Platform Group) · **VM team (HotSpot)** at Oracle
-- ☕ Java is my strongest language, I also work daily with TypeScript, JavaScript, Python, React, Node.js, Spring Boot, and Docker
-- 💬 Ask me about **Java internals, JVM/HotSpot, Spring Boot, web development, or TypeScript**
-- 🤝 Open to collaborating on open source projects
-
----
-
-### 🔨 Featured Projects
-
-#### 🔮 CrystalFlow *(coming soon — open source)*
-
-> A modern, **declarative & extensible** framework for building visual workflow editors. Simply define your nodes, and CrystalFlow automatically detects them, generates the UI, and handles all execution logic.
-
-`TypeScript` · `MIT` · `@Fladeed`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghmaimon&hide_border=true&theme=dark">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghmaimon&theme=github_dark">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghmaimon&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghmaimon&theme=github_dark">
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,python,react,nodejs,docker,git">
+  <a href="https://mimounghordou.com">mimounghordou.com</a> · <a href="https://linkedin.com/in/mghordou">linkedin</a> · <a href="mailto:mimoun.ghordou@gmail.com">email</a>
 </p>
