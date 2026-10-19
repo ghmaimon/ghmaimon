@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mimoun Ghordou 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · JDK VM Team @ Oracle · Co-founder of TajirPro · Open Source Builder</b>
+  <b>Software Engineer · JDK VM Team @ Oracle · Java, Spring Boot, PostgreSQL, Next.js</b>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 
 - 💼 **Software Engineer** on the **JDK VM Team** (Java Platform Group) at **Oracle**, working on JDK LTS releases: HotSpot, bytecode & class verification, jtreg, backports
-- 🛒 Co-founder of **[TajirPro](https://tajirpro.ma)**, a SaaS for Moroccan retailers (point of sale, inventory, customer credit) built on Spring Boot, PostgreSQL and Next.js
+- 🛒 Outside work I build **[TajirPro](https://tajirpro.ma)**, a point-of-sale and inventory SaaS for Moroccan retailers, on Spring Boot, PostgreSQL and Next.js
 - 🔮 Building open source at **[@Fladeed](https://github.com/Fladeed)**: **CrystalFlow** (visual workflow editors) and **FloTable** (React table for ERP screens)
 - ☕ Java is my strongest language, I also work daily with TypeScript, React, Next.js, Spring Boot, PostgreSQL and Docker
 - 💬 Ask me about **Java internals, JVM/HotSpot, Spring Boot, PostgreSQL multi-tenancy, or TypeScript**
@@ -32,10 +32,8 @@
 
 ### 💼 Experience
 
-- 🏢 **Software Engineer (Member of Technical Staff)** · JDK VM Team, Oracle · *2025 – now*
-- 🛒 **Co-founder** · TajirPro · *2026 – now*
-- 🧑‍💻 **Freelance full-stack engineer** · Fladeed · *2024 – 2026*
-- 🏢 **Software Engineer (Junior Member of Technical Staff)** · JDK VM Team, Oracle · *2023 – 2025*
+- 🏢 **Software Engineer** · JDK VM Team, Oracle · *2025 – now*
+- 🏢 **Software Engineer** · JDK VM Team, Oracle · *2023 – 2025*
 - 🎓 **Software Engineer Intern** · Oracle Labs (GCAS) · *2023*
 
 ---
@@ -54,9 +52,9 @@
 
 `TypeScript` · `React` · `npm i flotable` · [GitHub](https://github.com/Fladeed/FTable) · [Demo](https://flotable.fladeed.com)
 
-#### 🛒 TajirPro *(shipped SaaS)*
+#### 🛒 TajirPro *(side project, in production)*
 
-> Multi-tenant ERP-lite with POS for retailers. Darija, Arabic, French and English with full RTL, **2,000+ backend tests**, tenant isolation enforced down to PostgreSQL triggers. Top committer with 740+ commits.
+> Multi-tenant ERP-lite with POS for retailers. Darija, Arabic, French and English with full RTL, **2,000+ backend tests**, tenant isolation enforced down to PostgreSQL triggers.
 
 `Spring Boot` · `PostgreSQL` · `Next.js` · [tajirpro.ma](https://tajirpro.ma)
 
